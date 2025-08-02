@@ -4,3 +4,9 @@
 - 💻 J’aime développer des projets utiles et explorer de nouvelles idées.  
 - 🤖 Passionné par l’[intelligence artificielle](https://fr.wikipedia.org/wiki/Intelligence_artificielle) et le [machine learning](https://fr.wikipedia.org/wiki/Apprentissage_automatique).  
 - 📚 En ce moment, j’apprends à mieux structurer mes projets et à contribuer à des projets open source.  
+
+---
+
+## 📊 Mes statistiques GitHub
+
+[![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anasbk00&show_icons=true&theme=default)](https://github.com/Anasbk00/github-readme-stats)
