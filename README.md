@@ -9,4 +9,4 @@
 
 ## 📊 Mes statistiques GitHub
 
-[![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasbaccari&show_icons=true&theme=default)](https://github.com/Anasbk00/github-readme-stats)
+![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasbaccari&show_icons=true&theme=radical)
