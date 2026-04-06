@@ -1,33 +1,33 @@
-<div align="center">
+𝕬𝖓𝖆𝖘 𝕭𝖆𝖈𝖈𝖆𝖗𝖎
 
-# Anas Baccari
+╭─────────────────────────────────────╮
+│ Computer Science & Software         │
+│ Engineering Student                 │
+│ Faculté des Sciences de Monastir    │
+│ Monastir, Tunisie                   │
+╰─────────────────────────────────────╯
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Étudiant+en+Sciences+Informatiques+%26+Génie+Logiciel;Faculté+des+Sciences+de+Monastir;Passionné+IA+%26+Machine+Learning;Développeur+Full-Stack;Open+Source+Contributor" alt="Typing SVG" />
-</div>
+Développeur full-stack spécialisé IA/ML. Passionné par les applications scalables et l'open source.
 
-## À propos
-Développeur tunisien basé à Monastir. Spécialisé en IA/ML (Python), apps full-stack (React, Node.js, Java) et contribs open source. Actuellement en apprentissage avancé de projets scalables et structurés.
+╭─────────────────────── 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 & 𝗠𝗼𝗯𝗶𝗹𝗲 ───────────────────────╮
+│ React • React Native • Next.js • JavaScript (ES6+) • TypeScript        │
+│ HTML5 • CSS3 • Tailwind CSS • Material-UI • Bootstrap                 │
+╰───────────────────────────────────────────────────────────────────────╯
 
-![Metrics](https://github-readme-stats.vercel.app/api?username=anasbaccari&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true)
+╭─────────────────────── 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗗𝗮𝘁𝗮 ──────────────────────────╮
+│ Node.js • Express.js • Python • Django • Java • Spring Boot          │
+│ MongoDB • PostgreSQL • MySQL • Redis • GraphQL • REST APIs           │
+╰───────────────────────────────────────────────────────────────────────╯
 
-## Compétences
-Langages : JavaScript, Python, Java
-Frameworks : React, React Native, Node.js
-Bases : MongoDB, MySQL, PostgreSQL
-Outils : Git, GitHub, LaTeX
+╭─────────────────────── 𝗜𝗔/𝗠𝗟 & 𝗧𝗼𝗼𝗹𝘀 ─────────────────────────────╮
+│ TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy                 │
+│ Git • GitHub Actions • Docker • AWS • CI/CD • LaTeX                  │
+╰───────────────────────────────────────────────────────────────────────╯
 
-text
+𝗠𝗮𝘀𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲𝘀 𝗜𝗻𝗳𝗼𝗿𝗺𝖺𝗍𝗶𝗾𝘂𝗲𝘀 & 𝗚é𝗻𝗶𝗲 𝗟𝗼𝗴𝗶𝖼𝗶𝗲𝗹
+𝗙𝗼𝖼𝘂𝘀 : Architecture logicielle • Deep Learning • DevOps
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasbaccari&layout=compact&theme=gruvbox&hide_border=true)
+✉️ baccarianas926@gmail.com
+💼 linkedin.com/in/anasbaccari
 
-## Activité
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasbaccari&theme=gruvbox)
-
-## Contact
-<a href="https://linkedin.com/in/anasbaccari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:baccarianas926@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
-*✨ Mis à jour le 6 avril 2026*
-
-</div>
+*6 avril 2026*
