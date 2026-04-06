@@ -1,32 +1,33 @@
-# 👋 Salut, je suis Anas Baccari
+<div align="center">
 
-Étudiant en sciences informatiques et génie logiciel à la Faculté des Sciences de Monastir (Tunisie). Passionné par l'IA, le machine learning et le développement d'applications full-stack utiles. J'apprends à structurer des projets scalables et à contribuer à l'open source.[web:11]
+# Anas Baccari
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anasbaccari&show_icons=true&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Étudiant+en+Sciences+Informatiques+%26+Génie+Logiciel;Faculté+des+Sciences+de+Monastir;Passionné+IA+%26+Machine+Learning;Développeur+Full-Stack;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
-## 🚀 Ce que je fais
-- Développe des apps web/mobile avec React, React Native, Node.js et bases de données (MongoDB, MySQL, PostgreSQL).
-- Explore l'IA/ML en Python pour des projets data-driven.
-- Contribue à des repos open source pour gagner en expérience collaborative.
+## À propos
+Développeur tunisien basé à Monastir. Spécialisé en IA/ML (Python), apps full-stack (React, Node.js, Java) et contribs open source. Actuellement en apprentissage avancé de projets scalables et structurés.
 
-## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Metrics](https://github-readme-stats.vercel.app/api?username=anasbaccari&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true)
 
-## 🔥 Stats GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasbaccari&layout=compact&theme=radical&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasbaccari&theme=radical)
+## Compétences
+Langages : JavaScript, Python, Java
+Frameworks : React, React Native, Node.js
+Bases : MongoDB, MySQL, PostgreSQL
+Outils : Git, GitHub, LaTeX
 
-## 🏆 Trophées
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anasbaccari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+text
 
-## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anasbaccari)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baccarianas926@gmail.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasbaccari&layout=compact&theme=gruvbox&hide_border=true)
 
-*Dernière mise à jour : Avril 2026*
+## Activité
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasbaccari&theme=gruvbox)
+
+## Contact
+<a href="https://linkedin.com/in/anasbaccari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:baccarianas926@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+*✨ Mis à jour le 6 avril 2026*
+
+</div>
