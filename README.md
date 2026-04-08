@@ -1,4 +1,4 @@
-# HELLO THERE i'm 𝗔𝗻𝗮𝘀 𝗕𝗮𝗰𝗰𝗮𝗿𝗶 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Skull.png" alt="Skull" width="40" height="40" />
+# HELLO THERE i'm 𝗔𝗻𝗮𝘀 𝗕𝗮𝗰𝗰𝗮𝗿𝗶 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Skull.png" alt="Skull" width="40" height="90" />
 
 > Computer Science & Software Engineering @ FSM Monastir <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" alt="Astronaut" width="25" height="25" />
 
