@@ -1,5 +1,5 @@
 # HELLO THERE i'm 𝗔𝗻𝗮𝘀 𝗕𝗮𝗰𝗰𝗮𝗿𝗶 
-> Computer Science & Software Engineering @ FSM Monastir <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" alt="Astronaut" width="25" height="25" />
+> Computer Science & Software Engineering @ FSM Monastir 
 
 ---
 
