@@ -20,7 +20,6 @@
 ### Languages
 
 <div>
- <img src="https://user-images.githubusercontent.com/58937669/209861464-460eae2b-d3ff-451e-9737-21d1f3ac9ff7.png" height="36">
  <img src="https://user-images.githubusercontent.com/58937669/209861465-be147ff2-23e6-4dc1-a04b-37e3dcb8a625.png" height="36">
  <img src="https://user-images.githubusercontent.com/58937669/209861468-95d2b5a5-c5de-4b39-8618-a9f753a6ff26.png" height="46">
  <img src="https://user-images.githubusercontent.com/58937669/209861470-3f12eafb-749e-4aa4-a836-1ac7b38f927f.png" height="36">
