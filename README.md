@@ -7,7 +7,7 @@
 
 <ul>
   <li>💬 Ask me about Full Stack Web Development | JavaScript | Cross-Platform App Development | GUI Based Applications | System Design</li>
-  <li>💼 Resume: Check out my Resume at: <a href="https://drive.google.com/file/d/1l1GlLyDDg8kXNyX_yfgbmoKeNXFsR4VE/view?usp=drive_link">Resume</a></li>
+  <li>💼 Resume: Check out my Resume at: <a href="">Resume</a></li>
   <li>💼 Portfolio: Check out my Portfolio at: <a href="https://bento.me/Anas-baccari">Portfolio</a></li>
   <li>💼 Hobby: Check out my Website at: <a href="https://www.pephub.tech">PepHub</a></li>
   <li>👯 I'm looking to collaborate on Full Stack Web Development Projects</li>
