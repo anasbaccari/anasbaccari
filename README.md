@@ -1,9 +1,7 @@
 <div align="center">
-# HELLO THERE i'm 𝗔𝗻𝗮𝘀 𝗕𝗮kk𝗮𝗿𝗶 
-> Software Engineering @ FSM Monastir 
+<div align="center">
 
----
-
+# Anas Baccari
 
 **Full-Stack & AI Developer**
 
@@ -14,6 +12,16 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:baccarianas926@gmail.com)
 
 </div>
+---
+## 👩‍💻 About Me
+
+- 🎓 Software engeneering and Computer science Graduate  @ FSM University
+- 🚀 **Currently:** Software Engineering Intern (AI & FullStack) @ **Smartovate** — building *Subul*, an AI-powered adaptive learning platform with LangGraph agents, RAG pipelines, and microservices architecture
+- 🤖 I build real AI systems — not demos. Multi-agent workflows, semantic search, LLM orchestration
+- 🏆 Scrum Foundation Professional (SFPC) · Former VP @ AIESEC Bizerte (20-person team)
+- 🌍 Arabic (native) · French (bilingual) · English (professional)
+- 💼 **Open to Full-Stack & AI roles** — Remote, Hybrid, or On-site
+
 ---
 ## 🛠️ Skilled in
 
