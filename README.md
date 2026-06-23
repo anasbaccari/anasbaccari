@@ -22,89 +22,91 @@
 - 💼 **Open to Full-Stack & AI roles** — Remote, Hybrid, or On-site
 
 ---
-## 🛠️ Skilled in
+## 🔥 Featured Projects
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **Smartovate Platform** | Next.js · React · Node.js · MongoDB · Tailwind CSS · REST API | Contributed to the development of a modern business platform during my internship. Built responsive user interfaces, integrated APIs, optimized performance, and enhanced user experience across multiple modules. |
+| **BlinkIt E-Commerce Clone** | React · Node.js · Express.js · MongoDB · Redux Toolkit · JWT | Full-stack e-commerce application featuring user authentication, product management, shopping cart functionality, order processing, and responsive design. |
+| **Multi-Agent Career Assistant** | LangGraph · OpenAI API · FastAPI · Next.js · RAG | AI-powered system composed of multiple specialized agents capable of generating personalized learning roadmaps, career recommendations, and certification plans. |
+| **AI Resume Analyzer** | Python · Sentence Transformers · FAISS · Streamlit · Pandas | Intelligent resume screening platform that extracts skills, performs semantic matching between CVs and job descriptions, and generates AI-driven recommendations. |
+| **University Management System** | Spring Boot · Angular · PostgreSQL · JWT · Docker | Academic management platform supporting student enrollment, course management, role-based access control, and academic performance tracking. |
+| **Interactive Portfolio Website** | Next.js · TypeScript · Tailwind CSS · Framer Motion · Three.js | Personal portfolio showcasing projects, technical skills, and experience through modern UI/UX design, smooth animations, and optimized performance. |
+| **AI Coding Assistant** | Python · FastAPI · OpenAI · Vector Database · Next.js | AI-powered coding assistant capable of code generation, debugging, documentation, and contextual code search using retrieval-augmented generation (RAG). |
+
+---
+## 🛠️ Tech Stack
 
 ### Languages
 
-<div>
- <img src="https://user-images.githubusercontent.com/58937669/209861465-be147ff2-23e6-4dc1-a04b-37e3dcb8a625.png" height="36">
- <img src="https://user-images.githubusercontent.com/58937669/209861468-95d2b5a5-c5de-4b39-8618-a9f753a6ff26.png" height="46">
- <img src="https://user-images.githubusercontent.com/58937669/209861470-3f12eafb-749e-4aa4-a836-1ac7b38f927f.png" height="36">
- <img src="https://user-images.githubusercontent.com/58937669/209861472-f66e57ab-390e-4d58-970c-6ae8bddf0c4e.png" height="36">
- <img src="https://user-images.githubusercontent.com/58937669/209861462-b661896f-2cee-4b74-9c69-4ea8c8cc4391.png" height="36">
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Web Development (Full-stack)
+### Frontend
 
-#### Frontend/UI
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
 
-<div>
-<img src="https://user-images.githubusercontent.com/58937669/209864395-35746009-1bc9-4c1e-bfde-b4b2e56d8141.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209864511-0e374caf-fdd1-475e-89cb-844532004101.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209863973-f278489e-4bee-45a4-ab3b-6709393193f7.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209863966-9b3e71fa-a7dc-488f-b7d1-0de2c55e35ab.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209863965-c1a4d7e6-1132-4043-9bb7-ecbea1971c70.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209863970-d31740ca-c95f-487e-8959-cde78920ba5b.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209863972-471087c3-88aa-4095-8646-bf9de976fb1d.png" height="42">
-<img src="https://user-images.githubusercontent.com/58937669/209863963-c2954f0d-fb85-4e8b-890f-debeeb28fb8f.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209863953-67719a9a-8d1b-4bdd-9cdd-cc197a149ea1.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209863964-de944290-c5e0-4c42-9600-7dc7250ba757.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209863969-996f00b6-e0b3-43df-994c-3ad6207c1580.png" height="36">
-</div>
+### Backend
 
-#### Backend/Server
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Java EE](https://img.shields.io/badge/Java_EE-F80000?style=flat&logo=oracle&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
-<div>
-<img src="https://user-images.githubusercontent.com/58937669/209861187-9bbf2afa-d4b6-4753-b82a-4405ac9e3e71.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209861192-1d1f2c79-95c3-4910-af9d-a3cca0aebfdc.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209861175-3a6e9a91-809f-4588-87f3-3a605736b860.png" height="40">
-<img src="https://user-images.githubusercontent.com/58937669/209861179-3287a699-917f-474b-8ad2-2a8d6c609b8e.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209861185-0a7c5a67-9332-434f-879e-428a2883ccc9.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209861181-ca7d818e-9ba2-4ab5-ba4d-618c2cc435af.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209861189-5d1ac9d3-a4a6-445d-94aa-14cae9258efd.png" height="36">
-</div>
+### Databases
 
-#### Backend/Security
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
-<div>
-<img src="https://user-images.githubusercontent.com/58937669/209861231-34d6493a-3d41-4926-ac2c-2cd4364354fe.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209861234-d8aa2411-a918-4f35-b0e3-e3de40480d10.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209861236-d895db7c-59fe-4c3b-8f79-e33c2926e71f.png" height="36">
-</div>
+### AI & LLM Engineering
 
-#### Microservices
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-<div>
-<img src="https://user-images.githubusercontent.com/58937669/209861263-b442d33c-8c00-41d7-937e-bf753b6a9f09.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209861265-27388409-0fa6-4a11-b35b-d876ee1240f4.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209861269-4039534f-9c47-4537-b4fe-e88e8bfcd470.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209861271-76c2cfc1-aba2-47a2-9ea3-a5368b344c75.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209861275-69c08fb7-7d0e-452c-99cd-149f9c4366f8.jpeg" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209861266-9c49b8e5-d0a2-4c22-8192-d016e0c239ba.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209861256-6c63d004-591f-4e65-bb9b-f1870bf09746.png" height="36">
-</div>
+### Cloud & DevOps
 
-#### Database
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
-<div>
-<img src="https://user-images.githubusercontent.com/58937669/209861364-b7727898-f99a-4c4e-8e05-4532017695ff.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209861358-654050ef-f050-4294-b355-5b50438d2b3e.jpg" height="42">
-<img src="https://user-images.githubusercontent.com/58937669/209861365-88f9dd39-f8a9-43c6-a9e4-1a6c814e239f.png" height="42">
-<img src="https://user-images.githubusercontent.com/58937669/209861372-0ef86415-e649-4674-8e2c-01d86c12a349.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209861356-b65f84de-f9ae-4e59-b9c5-8fcf49c7e7ac.png" height="36">
-</div>
+### Tools & Methodologies
 
-### Dev-Ops
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat&logo=jira&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-<div>
-<img src="https://user-images.githubusercontent.com/58937669/209861309-e41958db-59ae-40ba-b1f0-ed6049114d1e.png" alt="aws" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209861312-8ec57383-67d3-4ce1-8279-47c1ba14bda8.png" alt="azure" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209861317-cc1c5046-c377-443c-9b48-557b03f8b2c8.png" alt="docker" height="42">
-<img src="https://user-images.githubusercontent.com/58937669/209861320-17fb4f7f-36b4-43e9-9b20-65a9acdd028b.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209861326-a1b0ba53-5cbb-45fe-9063-22adbbd0a6b1.jpg" height="42">
-<img src="https://user-images.githubusercontent.com/58937669/209861327-f690e498-6008-4fac-b7f3-16ffb2b5aa46.png" height="36">
-<img src="https://user-images.githubusercontent.com/58937669/209861330-ddb95f29-81f1-4a71-a58d-c78c185c6e60.png" height="36">
-</div>
+---
 
 ---
 <img width="45%" align="right" alt="GitHub Image" src="https://res.cloudinary.com/dwnurvsv4/image/upload/v1701197506/astrocat_ekrcmq.png" />
