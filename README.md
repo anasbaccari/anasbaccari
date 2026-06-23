@@ -5,14 +5,15 @@
 
 <img width="45%" align="right" alt="GitHub Image" src="https://res.cloudinary.com/dwnurvsv4/image/upload/v1701197506/astrocat_ekrcmq.png" />
 
-<ul>
-  <li>💬 Ask me about Full Stack Web Development | JavaScript | Cross-Platform App Development | GUI Based Applications | System Design</li>
-  <li>💼 Resume: Check out my Resume at: <a href="">Resume</a></li>
-  <li>💼 Portfolio: Check out my Portfolio at: <a href="https://anasbaccari.vercel.app/">Portfolio</a></li>
-  <li>💼 Hobby: Check out my Website at: <a href="https://www.pephub.tech">PepHub</a></li>
-  <li>👯 I'm looking to collaborate on Full Stack Web Development Projects</li>
-</ul>
+**Full-Stack & AI Developer**
 
+*Building production AI systems with LangGraph · RAG · LLMs · Next.js · Nestjs · Spring Boot . Angular *
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-baccari)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8C4555?style=flat&logo=vercel&logoColor=white)](https://anasbaccari.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:baccarianas926@gmail.com)
+
+</div>
 ---
 ## 🛠️ Skilled in
 
