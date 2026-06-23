@@ -1,3 +1,4 @@
+<div align="center">
 # HELLO THERE i'm 𝗔𝗻𝗮𝘀 𝗕𝗮kk𝗮𝗿𝗶 
 > Software Engineering @ FSM Monastir 
 
