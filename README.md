@@ -3,7 +3,6 @@
 
 ---
 
-<img width="45%" align="right" alt="GitHub Image" src="https://res.cloudinary.com/dwnurvsv4/image/upload/v1701197506/astrocat_ekrcmq.png" />
 
 **Full-Stack & AI Developer**
 
@@ -100,7 +99,7 @@
 </div>
 
 ---
-
+<img width="45%" align="right" alt="GitHub Image" src="https://res.cloudinary.com/dwnurvsv4/image/upload/v1701197506/astrocat_ekrcmq.png" />
 ## 🔗 Me contacter
 
 ✉️ baccarianas926@gmail.com  
